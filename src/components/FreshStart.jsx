@@ -10,7 +10,7 @@ function FreshStart() {
                 <p className='color3'>Click on new note button at top right corner</p>
                 <br />
             </div>
-            <a className='btn' id="freshFooter" href='http://compufacilito.com' target="_blank">made by compuFacilito</a>
+            <a className='btn' id="freshFooter" href='http://compufacilito.com' target="_blank" rel="noreferrer">made by compuFacilito</a>
         </div>
     )
 }
